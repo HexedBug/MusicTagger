@@ -1,0 +1,7 @@
+{
+  "dependencies": [
+    "taglib",
+    "curl",
+    "nlohmann-json"
+  ]
+}
